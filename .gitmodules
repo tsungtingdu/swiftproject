@@ -1,0 +1,3 @@
+[submodule "BullsAndCows"]
+	path = BullsAndCows
+	url = https://github.com/ALPHACamp/BullsAndCows.git
